@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Enoch-p/portfolio/static/css/main.f9a751b4.css",
+    "main.js": "/Enoch-p/portfolio/static/js/main.895c141d.js",
+    "static/js/453.a6a97343.chunk.js": "/Enoch-p/portfolio/static/js/453.a6a97343.chunk.js",
+    "static/media/DigitalBackground.mp4": "/Enoch-p/portfolio/static/media/DigitalBackground.6f309fab03899397ad85.mp4",
+    "static/media/pic.png": "/Enoch-p/portfolio/static/media/pic.deb7de9d0a2faf9af3d6.png",
+    "index.html": "/Enoch-p/portfolio/index.html",
+    "main.f9a751b4.css.map": "/Enoch-p/portfolio/static/css/main.f9a751b4.css.map",
+    "main.895c141d.js.map": "/Enoch-p/portfolio/static/js/main.895c141d.js.map",
+    "453.a6a97343.chunk.js.map": "/Enoch-p/portfolio/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9a751b4.css",
+    "static/js/main.895c141d.js"
+  ]
+}
